@@ -31,7 +31,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "RCD-MD",
   packname: process.env.PACK_NAME || "RCD",
   botname: process.env.BOT_NAME || "RCD-MD",
-  ownername: process.env.OWNER_NAME || "RCD",
+  ownername: process.env.OWNER_NAME || "ＣＹＢＥＲ ｘ ＴＨＡＲＵＷＡ ＩＤ",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
